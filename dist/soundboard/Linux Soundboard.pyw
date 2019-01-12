@@ -4,7 +4,7 @@ import pygame
 root = Tk()
 root.resizable(False, False)
 root.title("Michael Soundboard")
-root.iconbitmap('favicon.ico')
+
 
 pygame.mixer.init()
 
