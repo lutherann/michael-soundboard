@@ -1,2 +1,3 @@
 #!/bin/bash
-python3 dist/soundboard/Linux\ Soundboard.pyw
+cd dist/soundboard/
+python3 Linux\ Soundboard.pyw
